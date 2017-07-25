@@ -1,6 +1,6 @@
-Behaviorial Cloning Project
+## Behaviorial Cloning Project
 
-Overview
+#### Overview
 
 This repository contains Created, tested and modified files for the Behavioral Cloning Project.
 
@@ -12,20 +12,26 @@ Simulator provided by Udacity was used which provided camera images from Center,
 
 Also, Brake, throttle and speed are also provided as values from the simulator.
 
-Dependencies
+### Dependencies
 
-This lab requires:
+##### This lab requires:
 
 CarND Term1 Starter Kit
 The lab enviroment can be created with CarND Term1 Starter Kit. Click here for the details.
 
 The following resources can be found in this github repository:
 
-drive.py
-video.py
-Writeup
-Model.py (file that lists the keras model created for the lab)
-Behaviourcloning_model.ipynb (Jupyter notebook for final model)
-run1 (video of initial run of model)
-run3 (Video of final model run on track 1)
-run3_track2 (Video of final model run on track 2)
+* drive.py
+
+* video.py
+
+* Writeup
+
+* Model.py (file that lists the keras model created for the lab)
+
+* Behaviourcloning_model.ipynb (Jupyter notebook for final model)
+
+* run1 (video of initial run of model)
+
+* run3 (Video of final model run on track 1)
+* run3_track2 (Video of final model run on track 2)
